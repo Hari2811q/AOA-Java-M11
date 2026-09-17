@@ -19,8 +19,8 @@ To Write a Java program that takes an integer input N from the user and prints a
 ```
 /*
 Program to implement Reverse a String
-Developed by: SURIYA PRAKASH S
-Register Number: 212223100055 
+Developed by: Hariprasath R
+Register Number: 212223040059
 */
 import java.util.*;
 public class PrintNum{
@@ -66,8 +66,8 @@ An integer n is a power of two, if there exists an integer x such that n == 2x.
 ```
 /*
 Program to implement Reverse a String
-Developed by: SURIYA PRAKASH S
-Register Number: 212223100055  
+Developed by: Hariprasath R
+Register Number:212223040059
 */
 import java.util.Scanner;
 
@@ -131,8 +131,8 @@ x if x >= 0.
 ```
 /*
 Program to implement Reverse a String
-Developed by: SURIYA PRAKASH S
-Register Number: 212223100055 
+Developed by: Hariprasath R
+Register Number: 212223040059
 */
 import java.util.Scanner;
 public class CountPairsWithDifference {
@@ -198,8 +198,8 @@ The overall run time complexity should be O(log (m+n)).
 ```
 /*
 Program to implement Reverse a String
-Developed by: SURIYA PRAKASH S
-Register Number: 212223100055 
+Developed by: Hariprasath R
+Register Number:212223040059
 */
 import java.util.Scanner;
 
@@ -306,8 +306,8 @@ Unlike traditional matrix multiplication which takes O(n3)O(n^3)O(n3) time, Stra
 ```
 /*
 Program to implement Reverse a String
-Developed by: SURIYA PRAKASH S
-Register Number: 212223100055  
+Developed by: Hariprasath R
+Register Number: 212223040059
 */
 import java.util.Scanner;
 
